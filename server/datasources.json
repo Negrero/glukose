@@ -4,7 +4,7 @@
     "connector": "memory"
   },
   "fullstackjs": {
-    "host": "localhost",
+    "host": "www.tachoexplorer.com",
     "port": 27017,
     "database": "glukometer",
     "name": "glukometer",
